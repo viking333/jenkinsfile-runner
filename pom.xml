@@ -29,7 +29,7 @@ THE SOFTWARE.
     <groupId>org.jenkins-ci</groupId>
     <artifactId>jenkins</artifactId>
     <version>1.57</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>io.jenkins.jenkinsfile-runner</groupId>
@@ -61,7 +61,7 @@ THE SOFTWARE.
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.level>8</java.level>
     <jenkins.version>2.249.1</jenkins.version>
-    <jetty.version>9.4.30.v20200611</jetty.version>
+    <jetty.version>9.4.35.v20201120</jetty.version>
     <!--TODO: Reenable once all the issues are fixed (JENKINS-57353)-->
     <findbugs.failOnError>false</findbugs.failOnError>
   </properties>
